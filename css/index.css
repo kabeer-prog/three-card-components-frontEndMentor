@@ -112,7 +112,7 @@ div .atrribution{
     text-align: center;
     margin-left: 100px;
 }
-@media (max-width:650px){
+@media (max-width:750px){
     .container{
         display: block;
         height:100%;

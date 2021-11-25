@@ -17,7 +17,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -33,6 +33,8 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+![image](https://user-images.githubusercontent.com/77249754/143414794-f285a385-c08d-4dd0-9e49-36f08911dbfe.png)
+
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 

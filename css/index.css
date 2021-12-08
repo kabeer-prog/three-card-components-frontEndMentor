@@ -91,18 +91,27 @@ h2{
     background: hsl(179, 100%, 13%)
 }
 section p{
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     color:hsla(0, 0%, 100%, 0.75);
 }
 section a{
     text-decoration: none;
     padding:10px;
     border:2px solid hsl(0, 0%, 95%);
-    border-radius: 10px;
-    color:hsl(0, 0%, 95%);
+    border-radius: 20px;
     width:100%;
+    color:hsl(31, 77%, 52%);
+    background-color:hsl(0, 0%, 95%);
+
+    
     
 }
+ .second a{
+   color: hsl(184, 100%, 22%);
+}
+.third a{
+    color: hsl(179, 100%, 13%);
+ }
 a:hover{
     background:hsl(0, 0%, 95%)
 }
